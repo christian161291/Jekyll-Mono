@@ -26,8 +26,8 @@ Studend.. stressed student :P
 
 ## Skills
 
-* **C** | **Java** | **Python**
-* **PHP** | **HTML** | **XML** | **JavaScript**
+* **C** - **Java** - **Python**
+* **PHP** - **HTML** - **XML** - **JavaScript**
 * **Matlab** - **Image Processing** - **Iris Segmentation**
 * **SQL** - **Relational Database**
 * **NVIDIA CUDA** - **CUDA C**
