@@ -37,14 +37,6 @@ Studend.. stressed student :P
     
 ***
     
-## Achievements
-
-
-* [**This is my first achievement**](#) 
-   
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
 
 
 
