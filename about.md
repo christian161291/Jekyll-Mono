@@ -1,34 +1,40 @@
 ---
 layout: page
-title: About
+title: About Me..
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
+I am a student at the University of Salerno, with a degree in Computer Science (graduating in three years, vote: 102/110) and currently engaged in the Master Degree (Security address). In my thesis I have addressed the problem of parallel processing of the DFT (Discrete Fourier Transform) through the use of NVIDIA CUDA, comparing this with the sequential processing.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
+Although it is not the right place to say it, I do not really like to program, at least not in the general sense of the term. I really enjoy studying a subject and analyzing it, understanding its functioning and its applications.
 
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+My aspiration is to become a security expert and make sure everyone can feel safe on the net.
+
+***
 
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* Computer Science Degree from the University of Salerno (2013-2016).
+
+***
 
 ## Roles
 
-Founder, ABC Organisation
+Studend.. stressed student :P
+
+***
 
 ## Skills
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
+* **C** | **Java** | **Python**
+* **PHP** | **HTML** | **XML** | **JavaScript**
+* **Matlab** - **Image Processing** - **Iris Segmentation**
+* **SQL** - **Relational Database**
+* **NVIDIA CUDA** - **CUDA C**
+* **MongoDB** - **Mongo Shell** - **Multimedia Database**
+* **Malware Analisys**  
     
+***
     
 ## Achievements
 
@@ -39,17 +45,5 @@ Founder, ABC Organisation
 
 ***
 
-* [**This is my second achievement**](#) 
-
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my third achievement**](#) 
-
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
 
 
-## Contact me
-
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
