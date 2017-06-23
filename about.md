@@ -33,6 +33,7 @@ Studend.. stressed student :P
 * **NVIDIA CUDA** - **CUDA C**
 * **MongoDB** - **Mongo Shell** - **Multimedia Database**
 * **Malware Analisys**  
+* **Linux lover** - **yes, it's a skill**
     
 ***
     
