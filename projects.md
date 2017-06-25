@@ -28,7 +28,6 @@ A system for the academic exams automatization; SimplEx allows professors to com
 
 ### [Healthy Weight]
 Project for the course in Human Computer Interaction at the University of Salerno, on a small app for exercise and physical health, aimed at countering obesity. The application, related materials and prototyping activities, mainly focused on keeping up the principle of usability, based on the main guidelines and heuristics.
-
 ***
 
 ### [Satellite DB](https://github.com/christian161291/Satellite-s-Center-Database)
