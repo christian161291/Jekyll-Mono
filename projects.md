@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 ### [MMDB - Multimedia Database](https://github.com/christian161291/mongodatabaseGit)
-Project consisting of a NoSQL database powered by MongoDB and a Java interface. It's possibile to insert pictures, documents, videos, audio files and any kind of multimedial data. There is an authentication login implemented.
+Project consisting of a NoSQL database powered by MongoDB and a Java interface. It's possibile to insert pictures, documents, videos, audio files and any kind of multimedial data. There is an authentication login implemented and a size auto-detection for the GridFS storage engine choise.
 
 ***
 
