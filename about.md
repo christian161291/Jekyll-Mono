@@ -4,9 +4,7 @@ title: About Me..
 permalink: /about/
 ---
 
-I am a student at the University of Salerno, with a degree in Computer Science (graduating in three years, vote: 102/110) and currently engaged in the Master Degree (Security address). In my thesis I have addressed the problem of parallel processing of the DFT (Discrete Fourier Transform) through the use of NVIDIA CUDA, comparing this with the sequential processing.
-
-Although it is not the right place to say it, I do not really like to program, at least not in the general sense of the term. I really enjoy studying a subject and analyzing it, understanding its functioning and its applications.
+I am an ex-student from the University of Salerno, with a degree in Computer Science and a Master Degree in Cyber Security.
 
 My aspiration is to become a security expert and make sure everyone can feel safe on the net.
 
@@ -15,12 +13,16 @@ My aspiration is to become a security expert and make sure everyone can feel saf
 ## Education
 
 * Computer Science Degree from the University of Salerno (2013-2016).
+* Cyber SEcurity Master Degree from the University of Salerno (2016-2018).
 
 ***
 
 ## Roles
 
-Studend.. stressed student :P
+For ever studend.. better, stressed student :P
+Cyber Security Consultant
+Network Security Consultant
+Solution Consultant
 
 ***
 
