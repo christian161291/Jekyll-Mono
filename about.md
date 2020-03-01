@@ -19,10 +19,10 @@ My aspiration is to become a security expert and make sure everyone can feel saf
 
 ## Roles
 
-For ever studend.. better, stressed student :P
-Cyber Security Consultant
-Network Security Consultant
-Solution Consultant
+* For ever studend.. better, stressed student :P
+* Cyber Security Consultant
+* Network Security Consultant
+* Solution Consultant
 
 ***
 
